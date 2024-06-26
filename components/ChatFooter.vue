@@ -183,7 +183,7 @@
           size="md"
           variant="primary"
           class="float-end ml-2 mr-2"
-          button-title="Sending..."
+          button-title="Send the message"
           label="Send"
           icon-name="angle-double-right"
           done-icon=""
